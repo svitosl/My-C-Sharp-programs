@@ -1,0 +1,7 @@
+C:\Users\Svitoslav\source\repos\Kod2\Kod2\obj\Debug\Kod2.csprojAssemblyReference.cache
+C:\Users\Svitoslav\source\repos\Kod2\Kod2\obj\Debug\Kod2.csproj.CoreCompileInputs.cache
+C:\Users\Svitoslav\source\repos\Kod2\Kod2\bin\Debug\Kod2.exe.config
+C:\Users\Svitoslav\source\repos\Kod2\Kod2\bin\Debug\Kod2.exe
+C:\Users\Svitoslav\source\repos\Kod2\Kod2\bin\Debug\Kod2.pdb
+C:\Users\Svitoslav\source\repos\Kod2\Kod2\obj\Debug\Kod2.exe
+C:\Users\Svitoslav\source\repos\Kod2\Kod2\obj\Debug\Kod2.pdb

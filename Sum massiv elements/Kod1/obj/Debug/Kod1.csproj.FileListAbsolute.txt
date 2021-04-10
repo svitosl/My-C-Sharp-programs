@@ -1,0 +1,7 @@
+C:\Users\Svitoslav\source\repos\Kod1\Kod1\bin\Debug\Kod1.exe.config
+C:\Users\Svitoslav\source\repos\Kod1\Kod1\bin\Debug\Kod1.exe
+C:\Users\Svitoslav\source\repos\Kod1\Kod1\bin\Debug\Kod1.pdb
+C:\Users\Svitoslav\source\repos\Kod1\Kod1\obj\Debug\Kod1.csprojAssemblyReference.cache
+C:\Users\Svitoslav\source\repos\Kod1\Kod1\obj\Debug\Kod1.csproj.CoreCompileInputs.cache
+C:\Users\Svitoslav\source\repos\Kod1\Kod1\obj\Debug\Kod1.exe
+C:\Users\Svitoslav\source\repos\Kod1\Kod1\obj\Debug\Kod1.pdb
